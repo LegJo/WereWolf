@@ -1,0 +1,113 @@
+			
+
+				Les Loups-Garous: 
+	Les ennemis principaux des villageois. 
+	Ils complotent en secret pour decider qui ils vont manger de nuit.
+	Ils gagnent lorsque tous les Villageois sont elimines. 
+
+				Les Villageois :
+	Il s'agit des personnages de base.
+ 	Ils n'ont aucun pouvoir particulier et peuvent donc uniquement 
+	debattre et voter au cours de la journee.
+
+				La Voyante :
+	Chaque nuit, elle peut designer une personne dont 
+	elle decouvrira secretement l'identite.
+	C'est un personnage puissant, si vous etes vous-meme la Voyante,
+	  ne vous devoilez pas trop vite sous peine de vous faire tuer
+ 		au cours de la prochaine nuit par les Loups-Garous.
+
+				La Sorciere :
+	Elle possede deux potions,
+ 	une de guerison et une d'empoisonnement,
+	qu'elle peut utiliser une fois chacune au cours de la partie.
+ 	Une fois que les Loups-Garous ont designe leurs victime,
+ 	la Sorciere en prend connaissance,
+ 	puis elle a la possibilite de ne rien faire, de sauver 
+	la victime et/ou de tuer quelqu'un d'autre. 
+	La Sorciere peut se sauver elle-meme.
+ 	Bien que les potions de la Sorciere soient limitees.
+ 
+				 Cupidon :
+	Durant la toute premiere nuit de la partie,
+ 	il va designer deux personnes qui seront amoureuses jusqu'a la fin du jeu.
+        Il peut egalement se mettre lui meme en couple s'il le souhaite. 
+        Si l'une des deux personnes vient a mourir, 
+        l'autre meurt immediatement de desespoir. 
+        Les Amoureux se reconnaissent.
+
+		Il existe plusieurs type de couple:
+	-Le couple de Villageois: ce couple la ne change pas d'objectif et doit eliminer les Loups-Garous.
+	-Le couple de Loups-Garous: il ne change pas non plus d'objectif, et doit eliminer les Villageois.
+	-Le couple Traitre: La combinaison Villageois/Loup-Garou. Leurs but est d'etre les deux derniers survivants.
+
+				Le Chasseur :
+	Il n'a aucun role particulier a jouer tant qu'il est vivant. 
+ 	Mais des qu'il meurt (qu'il soit tue par les Loups-Garous ou suite a un vote des Villageois) 
+    	il peut designer une personne qui mourra egalement directement.
+
+				La Petite-Fille :
+	La Petite Fille est un personnage qui peut ouvrir les 
+	yeux discretement en meme temps que les Loups-Garous et peut ainsi les identifier.
+	Mais attention a ne pas se faire reperer, ou ils vous tueront sur-le-champ.
+
+				Le Voleur : 
+	(Le role a ete retire si vous jouer sans extension car trop peu de role present)
+	Le Voleur recoit lors de la premiere nuit la possibilite
+	de choisir son role parmi deux autres roles non-distribues. 
+	S'il n'en choisit aucun il est considere comme un Simple Villageois.
+
+
+
+		Roles de l'Extension Village (Ange compris) :
+				
+				Le Corbeau : 
+   	Le corbeau dans la nuit peut choisir de d'office assigne deux votes a un joueur,
+  	pour le prochain vote du village. 
+			
+				Le Loup Blanc:
+	Il est un Loup Garou a part entiere, il se reveille donc avec eux,
+	mais il gagne tout seul.
+        Il peut, une nuit sur deux decide de tuer un de ses comparses Loup.
+	
+				L'Ange :
+	L'Ange a pour but de mourir au premier tour. Si t-elle est le cas , il gagne, 
+	sinon il devient un simple villageois. 
+
+
+
+			 Roles de l'Extension Nouvelle Lune :
+
+				Le Garde (ou Salvateur) :
+	Le Garde peut designer chaque nuit un joueur qu'il protegera. 
+	Si ce joueur est la victime designee par les Loups-Garous durant cette meme nuit,
+	il survit a leur assaut. Le Garde peut se proteger lui-meme, 
+	mais il ne peut pas proteger la meme personne deux tours de suite. 
+	Cette protection ne marche qu'avec les Loups-Garous. 
+	Elle ne marchera pas contre une potion de mort par exemple.
+
+				L'Idiot du Village :
+	Il n'a pas de role particulier lorsqu'il est en vie, 
+	mais lorsqu'il est vote par le conseil du village pour etre tuer,
+     	son role est alors reveler et il reste en vie durant le reste de la partie,
+ 	sans pouvoir agir, ni vote,
+ 	il peut seulement patager ses information lors des conseil et devient digne de confiance.
+
+				Le Bouc Emissaire :
+	En cas d'egalite au cours du vote d'un conseil,
+	c'est le Bouc emissaire qui meurt a la place.
+  	Cependant, dans ce cas precis a sa mort, il a le droit de designer un joueur
+	qui ne votera pas au conseil du village suivant. 
+
+				L'Ancien : 
+	L'Ancien possede deux vies, lorsqu'il meurt il en perd une,
+    	et evidemment il ne le sait pas s'il s'agit d'une mort pen,dant la nuit. 
+
+			        Le Joueur de Flute : 
+  	Il gagne tout seul. chaque nuit il peut charmer deux joueurs la premiere nuit,
+	puis un joueur par nuit,
+	il gagne si tous les joueur en vie (lui homis) sont charmes.  
+  	La nuit les joueur Charmes ouvre une fois les yeux, pour se reveler entre eux.
+
+			
+
